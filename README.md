@@ -1,7 +1,8 @@
-# the_note_app
+# The Note App
+
 This is a demo app to practice and learn SwiftUI with iCloud Sync and Catalyst
 
-### App Features:
+## App Features:
 
 - [ ] Simple User input
 - [ ] Create, Delete and Edit modes
